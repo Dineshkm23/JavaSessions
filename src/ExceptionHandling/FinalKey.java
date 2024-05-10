@@ -8,6 +8,7 @@ public class FinalKey {
 		System.out.println("final key word");
 		System.out.println("dddddddd");
 		int a=10;
+		int b=2000;
 	}
 
 }
