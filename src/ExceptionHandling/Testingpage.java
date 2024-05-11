@@ -9,8 +9,6 @@ public class Testingpage {
 
 	
 		System.out.println("Testingpage_____ Rahul");
-	);
-
 	}
 
 }
