@@ -7,5 +7,9 @@ public class Google {
 		// TODO Auto-generated method stub
 
 System.out.println("Eclipse");
+		
+System.out.println("Git added");
+		
+		
 	}
 }
