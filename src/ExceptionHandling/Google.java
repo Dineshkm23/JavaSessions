@@ -17,4 +17,7 @@ System.out.println("Eclipse Added again");
 
 
 	}
+	public void initPage() {
+		String a="Git";
+	}
 }
