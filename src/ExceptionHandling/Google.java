@@ -13,8 +13,10 @@ System.out.println("Git added");
 		
 
 System.out.println("Eclipse Added again");
+
+	}
 	
-
-
+	public void regPage() {
+		String a="eclipse";
 	}
 }
